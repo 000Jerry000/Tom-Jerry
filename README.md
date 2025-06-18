@@ -2,7 +2,7 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Senior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)** with 6+ years of experience.
+- A Senior Software Engineer based in **[Asakura](https://en.wikipedia.org/wiki/Asakura), [Japan](https://en.wikipedia.org/wiki/Japan)** with 6+ years of experience.
 - Among the top 200 open source **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**.
 - See my portfolio at **[tomjerry.com](https://www.tomjerry.com)**.
 
