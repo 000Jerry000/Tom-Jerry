@@ -17,7 +17,7 @@ Hi there 👋!
 
 - 🗄️ **Backend:**
 
-  - **Programming:** `Node.js` • `JavaScript` • `TypeScript` • `PHP`
+  - **Programming:** `Node.js` • `JavaScript` • `TypeScript` • `PHP` • `Python`
   - **Framework:** `Nest.js` • `Express.js` • `Lumen` • `Laravel`
   - **Databases:** `MySQL` • `PostgreSQL`
   - **System Architecture:** `Monolithic` • `Modular` • `Microservices`
@@ -53,7 +53,7 @@ Hi there 👋!
 <a href="https://medium.com/@000jerry000">
   <img align="left" alt="Medium" width="22px" src="./assets/medium.svg" />
 </a>
-<a href="mailto:arifulalamszn@gmail.com">
+<a href="mailto:whitewolf961024@gmail.com">
   <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
 </a>
 
